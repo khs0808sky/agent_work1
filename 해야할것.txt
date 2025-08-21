@@ -1,18 +1,2 @@
-agent_work1 폴더 안에 .env파일 만들어서
-OPENAI_API_KEY='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'
-HUGGING_FACE_TOKEN='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'
-붙여넣기
 
-pip install pyMuPDF
-
-vscode-pdf install(extention)
-
-구글드라이브 -> ffmpeg... 다운받고 workspace폴더 안에 넣기
-
-
-huggingface -> openai/whisper-large-v3-turbo
-
-
-huggingface_whisper.ipynb -> 쭉 실행하기
-%pip install --upgrade pip
-%pip install --upgrade transformers datasets[audio] accelerate
+extention -> office viewer 설치

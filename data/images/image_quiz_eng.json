@@ -1,0 +1,17 @@
+[
+    {
+        "no": 1,
+        "eng": "Which of the following descriptions of the image is incorrect?\n- (1) The interior of the cafe is neat and modern in design.\n- (2) The wall is painted yellow.\n- (3) All the chairs are white.\n- (4) People are ordering drinks at the bar.",
+        "img": "local_stitch_terrarosa.jpg"
+    },
+    {
+        "no": 2,
+        "eng": "Which of the following descriptions of the image is incorrect?\n- (1) Various types of bread are displayed.\n- (2) The prices of the bread are all the same.\n- (3) The bread is inside a transparent display case.\n- (4) The staff are wearing hats.",
+        "img": "mangwon_bakery.jpg"
+    },
+    {
+        "no": 3,
+        "eng": "Which of the following descriptions of the image is incorrect?\n- (1) People are sitting at tables having conversations.\n- (2) The floor is made of wood.\n- (3) There are many windows on the wall.\n- (4) Everyone in the room is standing.",
+        "img": "seolleung_terrarosa.jpg"
+    }
+]
